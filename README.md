@@ -1,4 +1,4 @@
-# Digital-Marketing-Campaign-Efficiency-case-1
+# Digital-Marketing-Campaign-Efficiency
 Digital-Marketing-Analysis-SQL-Tableau
 # Marketing Performance Analysis: From Raw Data to Actionable Insights
 
