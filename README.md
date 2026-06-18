@@ -40,7 +40,7 @@ In February, marketing performance scaled significantly, though efficiency remai
 * Spend: $30.6M (+49.4% MoM)
 * Profit: $12.3M (+46.3% MoM)
 * ROAS: 1.4 (Stable)
-* Avg. CAC: $466 | Avg. LTV: $654
+* Avg. CAC: $466
 
 Insight: Revenue growth was driven by increased budget. However, stable ROAS indicates that higher spending did not yet improve structural efficiency.
 
@@ -50,7 +50,7 @@ Influencer Marketing is the primary profit driver, led by the YouTube Blogger ca
 * Revenue: $15.3M | Profit: $11.3M
 * ROAS: 3.8
 * CAC: $409 (Below average)
-* LTV: $1,547 (Highest)
+  
 
 
 ## Lowest-Performing Channels
